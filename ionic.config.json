@@ -1,0 +1,8 @@
+{
+  "name": "Pec3LorenteMachinSara",
+  "app_id": "695d5ad7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
